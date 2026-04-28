@@ -2,8 +2,8 @@
   "$GMSprite":"v2",
   "%Name":"spr_canister_horizontal_3",
   "bboxMode":0,
-  "bbox_bottom":22,
-  "bbox_left":1,
+  "bbox_bottom":21,
+  "bbox_left":3,
   "bbox_right":37,
   "bbox_top":2,
   "collisionKind":1,
@@ -13,8 +13,6 @@
   "For3D":false,
   "frames":[
     {"$GMSpriteFrame":"v1","%Name":"0639853b-13d1-4688-8949-7c76fa76753b","name":"0639853b-13d1-4688-8949-7c76fa76753b","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"dd84bd14-246c-4f4b-8a02-408196f151b6","name":"dd84bd14-246c-4f4b-8a02-408196f151b6","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"cd521275-4c47-4862-87e6-4ff2bcc5bb76","name":"cd521275-4c47-4862-87e6-4ff2bcc5bb76","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -27,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"The Game",
-    "path":"The Game.yyp",
+    "name":"canisters",
+    "path":"folders/sprites/decorations/canisters.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -51,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":3.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -73,12 +71,6 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0639853b-13d1-4688-8949-7c76fa76753b","path":"sprites/spr_canister_horizontal_3/spr_canister_horizontal_3.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"b1556b5c-ee1d-48c6-81a3-c3a510a0bfd0","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dd84bd14-246c-4f4b-8a02-408196f151b6","path":"sprites/spr_canister_horizontal_3/spr_canister_horizontal_3.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"858159bc-d987-4e6b-840d-803b28f730c0","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"cd521275-4c47-4862-87e6-4ff2bcc5bb76","path":"sprites/spr_canister_horizontal_3/spr_canister_horizontal_3.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"46073617-d48d-41b2-9f75-123ff5c5f3ca","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

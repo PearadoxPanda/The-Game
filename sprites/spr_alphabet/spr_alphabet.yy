@@ -96,8 +96,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"temp",
-    "path":"folders/sprites/temp.yy",
+    "name":"The Game",
+    "path":"The Game.yyp",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

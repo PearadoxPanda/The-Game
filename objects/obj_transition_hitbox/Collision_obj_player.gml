@@ -1,4 +1,3 @@
+global.spawn_x = target_x;
+global.spawn_y = target_y;
 room_goto(target_room);
-
-obj_player.x = 160
-obj_player.y = 90

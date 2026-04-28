@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"temp",
-    "path":"folders/sprites/temp.yy",
+    "name":"interactables",
+    "path":"folders/sprites/interactables.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

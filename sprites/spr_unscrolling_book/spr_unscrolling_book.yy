@@ -31,8 +31,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"interactables",
-    "path":"folders/sprites/interactables.yy",
+    "name":"books",
+    "path":"folders/sprites/interactables/books.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
